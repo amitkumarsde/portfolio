@@ -1,0 +1,14 @@
+# Files and folders Git should not track.
+/node_modules
+
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+.env*
+
+npm-debug.log*
+
+.DS_Store
+.claude/
